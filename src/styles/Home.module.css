@@ -1,0 +1,37 @@
+.bannerImg {
+  width: 98%;
+  height: 310px;
+  object-fit: cover;
+  border-radius: 20px;
+  display: block;
+  margin: 0px auto;
+  margin-top: 20px;
+}
+.mainContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 98%;
+  margin: 20px auto;
+}
+
+.homeProduct {
+  width: 79%;
+  min-height: 80vh;
+  border: 1px solid #efdbcec6;
+  border-radius: 10px;
+  padding: 15px 15px;
+  margin-right: 1rem;
+  text-align: center;
+}
+
+.homeFilter {
+  width: 20%;
+  min-height: 80vh;
+  border: 1px solid #efdbcec6;
+  border-radius: 10px;
+  padding: 15px 15px;
+  display: inline-block;
+}
+.filterHeading {
+  margin-top: 20px;
+}

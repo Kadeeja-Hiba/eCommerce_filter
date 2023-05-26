@@ -1,0 +1,22 @@
+.search {
+  margin-top: 2rem;
+}
+.searchInput {
+  width: 170px;
+  height: 35px;
+  border: none;
+  outline: none;
+  background-color: #f6ebe1b3;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 0 20px;
+  right: 10px;
+  top: 25px;
+  position: absolute;
+}
+.searchIcon {
+  position: absolute;
+  right: 15px;
+  top: 30px;
+  cursor: pointer;
+}
